@@ -51,7 +51,7 @@ public class ActionHelper {
 			try {
 				if(mobileElement.isDisplayed()) break;
 			}catch(Exception e) {
-				ActionHelper.verticalSwipeByPercentages(.50, .25, .98, driver);
+				ActionHelper.verticalSwipeByPercentages(.50, .30, .98, driver);
 			}
 		}
 	}
