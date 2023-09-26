@@ -18,7 +18,7 @@
 	<test name="Test1">
 		<classes>
 			<class
-					name="MobileUiTest.AppTest"/>
+					name="MobileUiTest.Tc_01_verify_if_user_able_to_click_on_app_field"/>
 		</classes>
 	</test>
 
